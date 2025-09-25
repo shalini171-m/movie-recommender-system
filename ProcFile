@@ -1,0 +1,2 @@
+#running this command on the Heroku's server will let me run this Streamlit app
+web: sh setup.sh &&  streamlit run app1.py
